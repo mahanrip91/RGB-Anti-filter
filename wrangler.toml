@@ -1,0 +1,6 @@
+name = "rgb-anti-filter"
+main = "src/worker.js"
+compatibility_date = "2026-10-07"
+
+[observability]
+enabled = true
